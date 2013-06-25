@@ -20,7 +20,7 @@ Yessir!
 </ul>
 
 <h3>Some code inside</h3>
-<code>
+<pre>
 	color: red;
 	height: 182cm;
-</code>
+</pre>
