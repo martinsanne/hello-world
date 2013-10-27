@@ -1,1 +1,1 @@
-<?php echo 'Hello nurse! Hello world! Hello hot, sexy mama!'; ?>
+<?php echo 'Hello everybody!'; ?>
